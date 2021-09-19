@@ -1,1 +1,1 @@
-# FTX-rebalance-dataframe
+# FTX-rebalance-script
